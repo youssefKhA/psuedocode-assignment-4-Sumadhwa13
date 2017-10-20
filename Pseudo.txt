@@ -1,0 +1,32 @@
+Sumadhwa Guruprasad - Period 2 - 10/18/2017
+
+Assignment 4: Speed Card Game Instructions
+
+Only two players are allowed to play this game
+This game requires a deck of cards
+One player should deal five cards to themselves and the other player (face down) to form a hand
+Each player is then dealt 15 cards face down to create a draw pile
+If there are jokers in the deck of cards:
+	give each draw pile 16 cards instead of the regular 15 cards
+Two stacks of five cards each are then placed face down on each side of the two players (these are replacement piles)
+Two cards are placed face down in the center (between the replacement piles)
+The round starts when both players each flip one of the face down cards in the center at the same time
+Using cards from their hand, both players must then place cards on either of the center stacks one above or one below the value of the top card on the stacks
+If the number of cards in any player's hand drops below five:
+	he/she must draw back up to five cards by taking cards from their draw pile
+If both players run out of viable cards to play:
+	they must simultaneously flip one card each from both of the replacement piles onto the top of the two center stacks (one card on top of each center stack)
+If the replacement piles lose all of their cards and both players run out of viable cards to play:
+	shuffle the center stacks and create new replacement piles (keep two face up cards on each center stack to resume play)
+While one player does not run out of cards from their hand and draw pile:
+	Using cards from their hand, both players must then place cards on either of the center stacks one above or one below the value of the top card on the stacks
+	If the number of cards in any player's hand drops below five:
+		he/she must draw back up to five cards by taking cards from their draw pile
+	If both players run out of viable cards to play:
+		they must simultaneously flip one card each from both of the replacement piles onto the top of the two center stacks (one card on top of each center stack)
+	If the replacement piles lose all of their cards and both players run out of viable cards to play:
+		shuffle the center stacks and create new replacement piles (keep two face up cards on each center stack to resume play)
+	
+	
+
+

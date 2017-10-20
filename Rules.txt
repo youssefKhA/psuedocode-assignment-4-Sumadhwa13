@@ -1,0 +1,29 @@
+Sumadhwa Guruprasad - Period 2 - 10/18/2017
+
+Assignment 4: Speed Card Game Rules
+
+Speed requires a standard deck of 52 cards
+Only two players can play
+The numerical value placed on each card is the value used in this game
+For non-numerical cards: Ace = 1, Jack = 11, Queen = 12, King = 13
+During play, you must place a card of one value above or below the card on top of the selected center stack
+You can place an Ace on top of a King, and a King on top of an Ace
+Jokers can be placed as wild cards (ex: if there is a 3 in the center, a joker can be used as a 4, or a 2)
+Any card can be played on a joker
+Multiple cards can be placed at one time
+If the number of cards in any player's hand drops below five:
+	he/she must draw back up to five cards by taking cards from their draw pile
+If both players run out of viable cards to play:
+	they must simultaneously flip one card each from both of the replacement piles onto the top of the two center stacks (one card on top of each center stack)
+If the replacement piles lose all of their cards and both players run out of viable cards to play:
+	shuffle the center stacks and create new replacement piles (keep two face up cards on each center stack to resume play)
+A player wins by running out of cards in their hand and their draw pile before the other player
+	That specific player MUST hit both center stacks and say "Speed!" to win
+	If this player does not do the instruction listed above:
+		They must take one of the center stacks as their draw pile and continue play
+
+
+
+
+
+
