@@ -4,7 +4,7 @@ Assignment 4: Speed Card Game Instructions
 
 Only two players are allowed to play this game
 This game requires a deck of cards
-One player should deal five cards to themselves and the other player (face down) to form a hand
+One player should deal five cards to themselves and the other player (face down) to form a hand // specify what is face down. I get that you're talking about the cards (probably) but i had to reread a couple times to get it
 Each player is then dealt 15 cards face down to create a draw pile
 If there are jokers in the deck of cards:
 	give each draw pile 16 cards instead of the regular 15 cards
